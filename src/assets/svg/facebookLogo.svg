@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="50" viewBox="0 0 49 50">
+  <g id="Grupo_344" data-name="Grupo 344" transform="translate(-192 -496)">
+    <path id="facebook-f" d="M12.8.169V3.876H10.6a2.063,2.063,0,0,0-1.629.506A2.327,2.327,0,0,0,8.547,5.9V8.552h4.114l-.548,4.156H8.548V23.365h-4.3V12.707H.671V8.551H4.252V5.49a5.432,5.432,0,0,1,1.46-4.051A5.3,5.3,0,0,1,9.6,0,23.2,23.2,0,0,1,12.8.169Z" transform="translate(209.238 509.545)" fill="#40e0d0"/>
+    <g id="Elipse_2" data-name="Elipse 2" transform="translate(192 496)" fill="none" stroke="#40e0d0" stroke-width="0.5">
+      <ellipse cx="24.5" cy="25" rx="24.5" ry="25" stroke="none"/>
+      <ellipse cx="24.5" cy="25" rx="24.25" ry="24.75" fill="none"/>
+    </g>
+  </g>
+</svg>

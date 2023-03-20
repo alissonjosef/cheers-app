@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="17" viewBox="0 0 21 17">
+  <g id="Grupo_342" data-name="Grupo 342" transform="translate(-3147 -1250)">
+    <rect id="Retângulo_318" data-name="Retângulo 318" width="21" height="17" transform="translate(3147 1250)" fill="none"/>
+    <g id="exit-outline" transform="translate(3145.025 1244.791)">
+      <path id="Caminho_1088" data-name="Caminho 1088" d="M13.479,21.086H5.117a2.142,2.142,0,0,1-2.142-2.142V8.491A2.145,2.145,0,0,1,5.117,6.349h8.361a2.145,2.145,0,0,1,2.142,2.142v1.742a.4.4,0,0,1-.8,0V8.491a1.344,1.344,0,0,0-1.342-1.342H5.117A1.344,1.344,0,0,0,3.775,8.491V18.943a1.342,1.342,0,0,0,1.342,1.342h8.362a1.344,1.344,0,0,0,1.342-1.342V17.2a.4.4,0,1,1,.8,0v1.742A2.145,2.145,0,0,1,13.479,21.086Z" transform="translate(0)" fill="#40e0d0"/>
+      <path id="Caminho_1089" data-name="Caminho 1089" d="M27,19.743a.4.4,0,0,1-.283-.683l3.2-3.2-3.2-3.2a.4.4,0,0,1,.566-.566l3.484,3.484a.4.4,0,0,1,0,.566l-3.484,3.484A.4.4,0,0,1,27,19.743Z" transform="translate(-8.992 -2.141)" fill="#40e0d0"/>
+      <path id="Caminho_1090" data-name="Caminho 1090" d="M25.319,18.4H13.43a.4.4,0,0,1,0-.8H25.319a.4.4,0,0,1,0,.8Z" transform="translate(-3.827 -4.282)" fill="#40e0d0"/>
+    </g>
+  </g>
+</svg>
